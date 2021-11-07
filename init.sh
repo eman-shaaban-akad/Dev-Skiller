@@ -1,4 +1,4 @@
-[200~#!/bin/bash
+#!/bin/bash
 
 
 sudo yum -y install epel-release
